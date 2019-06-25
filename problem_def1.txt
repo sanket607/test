@@ -1,0 +1,27 @@
+problem defination:
+
+1)The fabrikam  multinational company want to build & host their own information
+ managment solution online as they have multiple offices around the world.
+2)so they wanted to manage their data among the offices.
+3)Their second requirment is also that they want host Ecommerce website
+4)to feel the grace of their products with online shopping experience
+for their customers.
+5)The third requirment is that they want to host intranet
+for feedback managment system & leave managment related information
+and give the access to all the employee. 
+
+
+
+Functional Requirments:
+1.session & cookies for various clients
+2.feedback for the products
+3.Rartings for the products
+4. various payment methods
+5.storing and retrieving information fastly
+
+Non Functional Requriments:
+1.Robustness of the of the information managment solution
+2.Robustness of shopping website
+3.security for the website
+4.scalability of the website
+5.Load handling mechnaisms
